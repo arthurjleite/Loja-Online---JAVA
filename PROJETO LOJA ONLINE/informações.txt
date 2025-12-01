@@ -1,0 +1,14 @@
+abas ADMINISTRADOR X USUÁRIO
+
+
+administrador:
+
+-Valor na carteira
+-Controle de produtos (cadastro, exclusão, edição e consulta)
+-Controle de clientes (cadastro, exclusão, edição e consulta)
+-Controle de estoque (quantidade de produtos, edição, consulta e automatização na compra)
+-Geração de relatórios (vendas realizadas (valores ganhos), clientes, produtos em estoque)
+
+usuário:
+
+-Compra de itens no catálogo (automatização de estoque e catálogo, soma do valor)
