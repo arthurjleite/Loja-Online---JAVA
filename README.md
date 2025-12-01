@@ -1,4 +1,4 @@
-# Loja-Online---JAVA
+# Loja Online - JAVA
 Projeto de loja online desenvolvido em JAVA na faculdade de Sistemas para Internet.
 
 Como executar: 
