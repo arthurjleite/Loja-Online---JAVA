@@ -50,7 +50,7 @@ public class Main {
 	//Menu principal
 	private static void exibirMenuPrincipal() {
 		limparConsole();
-		System.out.println("Bem vindo ao sistema da Street Sports inc!\n");
+		System.out.println("\nBem vindo ao sistema da Street Sports inc!\n");
 		System.out.println("=== MENU PRINCIPAL ===\n");
         System.out.println("1- Gerenciar Produtos");
         System.out.println("2- Gerenciar Clientes");
